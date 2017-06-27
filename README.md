@@ -1,1 +1,1 @@
-# amoghdamle
+# R code for Nifty50 stock analysis
